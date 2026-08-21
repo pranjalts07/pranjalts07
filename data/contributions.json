@@ -1,22 +1,22 @@
 {
   "username": "pranjalts07",
-  "generated_at": "2026-08-20T07:06:03Z",
+  "generated_at": "2026-08-21T07:07:16Z",
   "range": {
     "start": "2025-08-17",
+    "end": "2026-08-21"
+  },
+  "total_contributions": 675,
+  "active_days": 107,
+  "avg_per_active_day": 6.3,
+  "current_streak": {
+    "length": 32,
+    "start": "2026-07-20",
     "end": "2026-08-20"
   },
-  "total_contributions": 674,
-  "active_days": 106,
-  "avg_per_active_day": 6.4,
-  "current_streak": {
-    "length": 31,
-    "start": "2026-07-20",
-    "end": "2026-08-19"
-  },
   "longest_streak": {
-    "length": 31,
+    "length": 32,
     "start": "2026-07-20",
-    "end": "2026-08-19"
+    "end": "2026-08-20"
   },
   "best_day": {
     "date": "2026-08-10",
@@ -73,7 +73,7 @@
     },
     {
       "month": "2026-08",
-      "total": 281
+      "total": 282
     }
   ],
   "days": [
@@ -1551,6 +1551,10 @@
     },
     {
       "date": "2026-08-20",
+      "count": 1
+    },
+    {
+      "date": "2026-08-21",
       "count": 0
     }
   ]
