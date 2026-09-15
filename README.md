@@ -4,8 +4,7 @@
 
 <img src="./contrib-heatmap.svg" width="860" alt="Pranjal's GitHub contribution graph, refreshed daily" />
 
-<br>
-<br>
+<br><br>
 
 <h3><code>pranjal@github ~ $ whoami</code></h3>
 
@@ -16,20 +15,8 @@
 </tr>
 </table>
 
-<br>
-<br>
+<br><br>
 
-<h3><code>pranjal@github ~ $ ./featured.sh</code></h3>
-
-<p><b>Machine Learning · Applied AI · Data Systems</b></p>
-
-[![Learn2Drive](https://img.shields.io/badge/Learn2Drive-Autonomy_ML-8b5cf6?style=for-the-badge&logo=python&logoColor=white)](https://github.com/pranjalts07/Learn2Drive)
-[![DefectScope](https://img.shields.io/badge/DefectScope-Computer_Vision-22c55e?style=for-the-badge&logo=opencv&logoColor=white)](https://github.com/pranjalts07/defectscope)
-[![NetPulse](https://img.shields.io/badge/NetPulse-Risk_Scoring-06b6d4?style=for-the-badge&logo=wireshark&logoColor=white)](https://github.com/pranjalts07/netpulse)
-[![HALE](https://img.shields.io/badge/HALE-ML_Research-f59e0b?style=for-the-badge&logo=jupyter&logoColor=white)](https://github.com/pranjalts07/HALE-ML-Prediction)
-
-<br>
-
-<sub>The contribution graph is generated from public GitHub data by a daily GitHub Action. No token or third-party stats service required.</sub>
+<a href="https://pranjal-ts-portfolio.vercel.app">🌐 Portfolio</a> · <a href="https://www.linkedin.com/in/pranjal-ts">LinkedIn</a> · <a href="https://scholar.google.com/citations?user=Z5COi0MAAAAJ&hl=en">🎓 Google Scholar</a>
 
 </div>
