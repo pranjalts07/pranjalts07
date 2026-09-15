@@ -10,8 +10,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avatar-animated.svg" width="520" alt="Animated terminal showing Pranjal T S" /></td>
-<td valign="top"><img src="./info-card.svg" width="490" alt="Pranjal's focus, stack, and featured work" /></td>
+<td valign="top"><img src="./avatar-animated.svg" width="480" alt="Animated terminal showing Pranjal T S" /></td>
+<td valign="top"><img src="./info-card.svg" width="480" alt="Pranjal's focus, stack, and featured work" /></td>
 </tr>
 </table>
 
